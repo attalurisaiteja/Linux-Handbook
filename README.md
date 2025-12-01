@@ -159,3 +159,9 @@ Designed specifically for **DevOps Engineers**, **SREs**, and **Platform Teams**
 It’s structured for **training**, **interviews**, **documentation**, and **production onboarding**.
 
 ---
+# ✍️ **Author**  
+### **Attaluri Sai Teja**  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DevOps-Engineer-green?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</p>
